@@ -17,7 +17,6 @@ Setup
 
 Supported IDos
 --------------
-* linuxmint-17.1-cinnamon-64bit
-* linuxmint-17.1-cinnamon-32bit
-* linuxmint-17.1-cinnamon-64bit.iso (not working)
-* linuxmint-17.1-cinnamon-64bit.iso (not working)
+* linuxmint-17.1-cinnamon-32bit.iso
+* linuxmint-17.1-cinnamon-64bit.iso
+* kali-linux-1.0.6-amd64.iso
