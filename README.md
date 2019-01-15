@@ -15,7 +15,7 @@ Setup
 * Extract or move ISO to the same path
 
 
-Supported IDos
+Supported ISOs
 --------------
 * linuxmint-17.1-cinnamon-32bit.iso
 * linuxmint-17.1-cinnamon-64bit.iso
